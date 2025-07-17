@@ -1,3 +1,4 @@
+
 # Miscellaneous
 *.class
 *.log
@@ -52,3 +53,7 @@ app.*.map.json
 # gpay_ocr_backend
 # /gpay_ocr_backend/credentials.py
 /gpay_ocr_backend/venv/
+
+# backend
+/backend/credentials.py
+/backend/venv/
