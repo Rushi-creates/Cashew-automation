@@ -46,14 +46,6 @@ app.*.map.json
 /android/app/release
 
 
-# my added
-/share_gpay_ss_backend/credentials.py
-/share_gpay_ss_backend/venv/
-
-# gpay_ocr_backend
-# /gpay_ocr_backend/credentials.py
-/gpay_ocr_backend/venv/
-
 # backend
-/backend/credentials.py
+/backend/utils/credentials.py
 /backend/venv/
